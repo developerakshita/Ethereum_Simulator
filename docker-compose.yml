@@ -1,0 +1,28 @@
+version: '3'
+services:
+  bootstrapper:
+    build: .
+    command: ["python", "bootstrapper.py", "--port", "5000", "--ip", "bootstrapper", "--stake", "100", "--balance", "1000"]
+    ports:
+      - "5000:5000"
+    environment:
+      - SERVICE_NAME=bootstrapper
+    networks:
+      - mynetwork
+
+  validator:
+    build: .
+    command: ["python", "endpoint.py", "--port", "5001", "--stake", "100", "--balance", "1000"]
+    ports:
+      - "5001"
+    depends_on:
+      - bootstrapper
+    environment:
+      - BOOTSTRAPPER_IP=bootstrapper
+    networks:
+      - mynetwork
+    cap_add:
+      - NET_ADMIN
+networks:
+  mynetwork:
+    driver: bridge

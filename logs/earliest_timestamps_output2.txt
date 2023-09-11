@@ -1,0 +1,243 @@
+Validator 1:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:13:49.545456331Z
+  Message: DEBUG: Proposing block with state root 3b55ae78bd6c7c6d4ea442fcda00d0862fcc8166276411fa9b918e97f1dfc66a
+  Earliest Timestamp: 2023-09-10T16:14:49.574394067Z
+  Message: DEBUG: Proposing block with state root e993855751e8bd59f69e38e0da774d3bb97609697e4fa5738dd4df41a2e3e6cd
+  Earliest Timestamp: 2023-09-10T16:24:35.572679541Z
+  Message: DEBUG: Proposing block with state root 6827ac6774b309eeb32ad84352ae21a30a9c10e72fbcfdf8c1a81d3d69827923
+  Earliest Timestamp: 2023-09-10T16:25:35.568812101Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:20.524314743Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:30:49.594958121Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:32:35.580892366Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:35:19.748608075Z
+  Message: DEBUG: Proposing block with state root 0490f5271204d0e94b65d6af2bb8f192028ee4bad7d419dbdd6b14b5281d4e24
+  Earliest Timestamp: 2023-09-10T16:37:35.530571522Z
+  Message: DEBUG: Proposing block with state root 73bcf3b9f803b5089a43d5b195f7d34368a1884b008092e45ee75b69ee47bd5a
+  Earliest Timestamp: 2023-09-10T16:38:35.512774676Z
+  Message: DEBUG: Proposing block with state root 681cb176b3f353c5579fc25562d76a4242aaa1a12ed2b10fd5e12515d8d8c2a9
+  Earliest Timestamp: 2023-09-10T16:39:35.547156647Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:43:49.721931196Z
+  Message: DEBUG: Proposing block with state root 3639cb15092bab09cd409ca1090e872c8f8f57dec47bbe7cf994cc929eac2697
+  Earliest Timestamp: 2023-09-10T16:45:35.557523460Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:34.597834572Z
+Validator 2:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:13:51.702668396Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:51.791989261Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:24:36.700041815Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:51.686851194Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:27:23.437448660Z
+  Message: DEBUG: Proposing block with state root 42b727fdd6e5da806a343b277a4a9347bf524bf4c4078a49b37023ff159b3a10
+  Earliest Timestamp: 2023-09-10T16:29:20.631820516Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:35.541162576Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:33:22.895761812Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:34:35.603610899Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:36.671472133Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:38:51.721749377Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:51.716007091Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:42:36.721375906Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:45:36.694864349Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:51.777828485Z
+Validator 3:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:13:36.592992688Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:24.837477698Z
+  Message: DEBUG: Proposing block with state root 63552b30f8571a120f7fd2c94ad0a3837c7d5cc1a03fe17ec4f5109e89f66485
+  Earliest Timestamp: 2023-09-10T16:16:08.250551901Z
+  Message: DEBUG: Proposing block with state root 7aabcbf51ee0cd6236eab309dc5c7a48e4c8eb96d1488a2ec6eec8a44fbcf459
+  Earliest Timestamp: 2023-09-10T16:17:24.834036408Z
+  Message: DEBUG: Proposing block with state root 42b727fdd6e5da806a343b277a4a9347bf524bf4c4078a49b37023ff159b3a10
+  Earliest Timestamp: 2023-09-10T16:18:24.838537970Z
+  Message: DEBUG: Proposing block with state root c09570efb7b9d5eae462d4b7f30709e3feb66fd6049280aee27e29cdb2c0ab5e
+  Earliest Timestamp: 2023-09-10T16:20:24.852466168Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:24:24.864016525Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:23.741822315Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:27:23.759866417Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:24.832675679Z
+  Message: DEBUG: Proposing block with state root adeaf990a4f2a3477350d099d62fbdcf06a2827ef2bda4076d12c8da0b4dcf8e
+  Earliest Timestamp: 2023-09-10T16:31:24.832588353Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:32:23.728002794Z
+  Message: DEBUG: Proposing block with state root 96ca5b79f92454a5b3c4da986cd219355c217c40076c018c8ef91bc343ac80b2
+  Earliest Timestamp: 2023-09-10T16:33:23.234152964Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:34:24.829885508Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:36.612347401Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:38:24.838394361Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:23.733706007Z
+  Message: DEBUG: Proposing block with state root aed865baaa97343d125295e2f9c1495a1a511396b3d78fcc8876f0ff6c241d7f
+  Earliest Timestamp: 2023-09-10T16:40:23.096669199Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:41:24.841294568Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:45:24.833094361Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:23.729226139Z
+  Message: DEBUG: Proposing block with state root 212a40d188bb29468659565695f76b52d756c3981e2945b709c35f6eb23b5867
+  Earliest Timestamp: 2023-09-10T16:47:23.065143730Z
+Validator 4:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:23.001128171Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:15:22.929327386Z
+  Message: DEBUG: Proposing block with state root 1456cd6d9fe7d9caa9b4f8c7ecc71183d154f381d5976f6e4f4e5f1122dfe5f4
+  Earliest Timestamp: 2023-09-10T16:16:37.940895650Z
+  Message: DEBUG: Proposing block with state root 61c1bad36bbe0ab7ae01d0c9347a7bf603543acdd9bb8b7708e9f90796cfa7f7
+  Earliest Timestamp: 2023-09-10T16:22:37.905428255Z
+  Message: DEBUG: Proposing block with state root 212a40d188bb29468659565695f76b52d756c3981e2945b709c35f6eb23b5867
+  Earliest Timestamp: 2023-09-10T16:22:37.905525161Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:22.979405361Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:26:37.986557121Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:27:23.812638989Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:53.823833200Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:33:23.022293121Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:36:37.911889232Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:23.784992215Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:23.004690897Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:40:22.978020899Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:42:37.941689773Z
+  Message: DEBUG: Proposing block with state root 2855f42df38374d94f92d084cec94b06fc998faf844ee08ef305ece453380fee
+  Earliest Timestamp: 2023-09-10T16:42:37.941836629Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:22.953067852Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:47:22.937507611Z
+Validator 5:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:13:35.678210854Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:50.573096208Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:24:50.606123460Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:36.615849849Z
+  Message: DEBUG: Proposing block with state root 46b278e044a762f72b9aa822c37db046eb6f5bee8c1de2a093314e3cbda21a5c
+  Earliest Timestamp: 2023-09-10T16:27:21.609171707Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:36.583566006Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:32:50.639835188Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:34:36.590909931Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:36.583326919Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:38:50.604714004Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:36.610303420Z
+  Message: DEBUG: Proposing block with state root 2f2782f63766723c814723849fe9675d3f8886e1d87724559aa369419ec1a719
+  Earliest Timestamp: 2023-09-10T16:41:20.841287314Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:45:35.859744026Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:50.728635909Z
+Validator 6:
+  Message: DEBUG: Proposing block with state root 63552b30f8571a120f7fd2c94ad0a3837c7d5cc1a03fe17ec4f5109e89f66485
+  Earliest Timestamp: 2023-09-10T16:13:35.502044963Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:33.617739017Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:18.593360159Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:26:18.588564765Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:28:33.641517280Z
+  Message: DEBUG: Proposing block with state root 0941960036917e6180d26d8bb111f45c0f4042b14fad0d82b76bfa93a6059af3
+  Earliest Timestamp: 2023-09-10T16:30:03.621847560Z
+  Message: DEBUG: Proposing block with state root 96ca5b79f92454a5b3c4da986cd219355c217c40076c018c8ef91bc343ac80b2
+  Earliest Timestamp: 2023-09-10T16:32:35.500714125Z
+  Message: DEBUG: Proposing block with state root 562a3bd60244165c9213b65647885c2f5222ba98a4bd6cc6a9cae56c8f3872ea
+  Earliest Timestamp: 2023-09-10T16:34:20.545033550Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:35.502426526Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:38:33.598758568Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:33.600308042Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:43:48.689339754Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:45:35.498826925Z
+  Message: DEBUG: Proposing block with state root f2b36452609bd5d1ebca1389ed4724d0400584d8b90fe1896d5e63c539c35b99
+  Earliest Timestamp: 2023-09-10T16:46:35.502263848Z
+Validator 7:
+  Message: Block 1 is justified!
+  Earliest Timestamp: 2023-09-10T16:14:23.104766534Z
+  Message: Block 2 is justified!
+  Earliest Timestamp: 2023-09-10T16:15:23.046011353Z
+  Message: DEBUG: Proposing block with state root b987b3cdb5c70b13c17027295d721e384206034961d70422b2712a8c09503c9c
+  Earliest Timestamp: 2023-09-10T16:19:37.967995292Z
+  Message: DEBUG: Proposing block with state root 8a83ca8dbd63f2140d447f52f31e30459ddb29eede394e8d491641cb1b9e5274
+  Earliest Timestamp: 2023-09-10T16:23:39.919692994Z
+  Message: Block 3 is justified!
+  Earliest Timestamp: 2023-09-10T16:25:23.064137624Z
+  Message: Block 4 is justified!
+  Earliest Timestamp: 2023-09-10T16:26:38.131797680Z
+  Message: DEBUG: Proposing block with state root 95c6bf5db263c65a12271f8d7af45205003072e63638641dd038457007b3cb5c
+  Earliest Timestamp: 2023-09-10T16:26:38.131920957Z
+  Message: Block 5 is justified!
+  Earliest Timestamp: 2023-09-10T16:27:24.902263785Z
+  Message: Block 6 is justified!
+  Earliest Timestamp: 2023-09-10T16:29:54.901105458Z
+  Message: DEBUG: Proposing block with state root 428fa681b38a1143ceb0fb4cdbcea2ac6b8d6e80d1e11771c9f1c59a9fc5a923
+  Earliest Timestamp: 2023-09-10T16:31:23.226344313Z
+  Message: Block 7 is justified!
+  Earliest Timestamp: 2023-09-10T16:33:23.180622936Z
+  Message: Block 8 is justified!
+  Earliest Timestamp: 2023-09-10T16:36:37.943009217Z
+  Message: DEBUG: Proposing block with state root c20bbd7ecac956d8541ee0c4dbf7b534464c62a861920a6ca2a55228e78bc927
+  Earliest Timestamp: 2023-09-10T16:36:37.943393414Z
+  Message: DEBUG: Proposing block with state root 93609a37810232e1f9515342b3c885aee195b49265c3e40108108c1281b0aecf
+  Earliest Timestamp: 2023-09-10T16:36:37.943508458Z
+  Message: Block 9 is justified!
+  Earliest Timestamp: 2023-09-10T16:37:24.888259378Z
+  Message: Block 10 is justified!
+  Earliest Timestamp: 2023-09-10T16:39:23.121842647Z
+  Message: Block 11 is justified!
+  Earliest Timestamp: 2023-09-10T16:40:23.099956901Z
+  Message: Block 12 is justified!
+  Earliest Timestamp: 2023-09-10T16:42:38.044630933Z
+  Message: DEBUG: Proposing block with state root 212a40d188bb29468659565695f76b52d756c3981e2945b709c35f6eb23b5867
+  Earliest Timestamp: 2023-09-10T16:45:09.953147206Z
+  Message: Block 13 is justified!
+  Earliest Timestamp: 2023-09-10T16:46:23.060994496Z
+  Message: Block 14 is justified!
+  Earliest Timestamp: 2023-09-10T16:47:23.041274626Z

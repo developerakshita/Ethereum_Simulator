@@ -1,0 +1,639 @@
+Validator 1:
+  Message: Transaction successfully received by 7e730039ffb9:5001
+  Earliest Timestamp: 2023-09-11T14:57:49.683732774Z
+  Message: Transaction successfully received by b23a481d9e29:5001
+  Earliest Timestamp: 2023-09-11T14:57:49.683747652Z
+  Message: Transaction successfully received by 6eff7f343cd5:5001
+  Earliest Timestamp: 2023-09-11T14:57:49.683749851Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:34.515392260Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:34.515395384Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:34.515398195Z
+  Message: Block successfully received by 7e730039ffb9:5001
+  Earliest Timestamp: 2023-09-11T14:59:34.515400823Z
+  Message: Block successfully received by b23a481d9e29:5001
+  Earliest Timestamp: 2023-09-11T14:59:34.515408357Z
+  Message: Block successfully received by 6eff7f343cd5:5001
+  Earliest Timestamp: 2023-09-11T14:59:34.515415572Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09
+  Earliest Timestamp: 2023-09-11T15:02:04.482961838Z
+  Message: Sending vote for block 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:02:04.482963783Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:35.083923991Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:35.083925700Z
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T15:06:34.540131245Z
+  Message: DEBUG: Proposing block with state root edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:06:34.540136114Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:35.090522562Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:35.090534271Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:35.090539223Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c
+  Earliest Timestamp: 2023-09-11T15:09:04.492117615Z
+  Message: Sending vote for block 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:04.492121136Z
+  Message: DEBUG: Proposing block with state root f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:09:34.777953928Z
+  Message: DEBUG: Proposing block with state root 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:12:47.222036557Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:34.551415599Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:34.551418991Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:34.551420587Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:34.805092863Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:34.805095153Z
+  Message: DEBUG: Proposing block with state root 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:16:47.222363055Z
+  Message: DEBUG: Proposing block with state root 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:19:35.121778550Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:49.562124169Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:23:49.562132897Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:49.562135498Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:48.088111872Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:48.088114748Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:35.096742317Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:35.096744086Z
+  Message: DEBUG: Proposing block with state root e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:27:49.489472743Z
+Validator 2:
+  Message: Transaction successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:59:17.474874188Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:49.251982113Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:49.251984330Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:49.251986217Z
+  Message: Block successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:59:49.252092217Z
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T15:04:49.241493906Z
+  Message: DEBUG: Proposing block with state root 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:49.241496002Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:17.364274305Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:07:17.364284452Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:17.364290495Z
+  Message: DEBUG: Proposing block with state root 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:49.228661861Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:10:47.285443380Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:10:47.285447594Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:10:47.285449520Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:13:34.244983106Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:34.244985146Z
+  Message: DEBUG: Proposing block with state root e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:34.245116365Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:49.261333493Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:49.261345386Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:49.261350640Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:17:17.407267712Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:17:17.407270832Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:20:17.422967942Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:20:17.422971268Z
+  Message: DEBUG: Proposing block with state root e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:23:49.266510867Z
+  Message: DEBUG: Proposing block with state root 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:47.242087355Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:27:02.319482261Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:27:02.319486937Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:27:02.319488604Z
+Validator 3:
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T14:57:36.400541305Z
+  Message: Transaction successfully received by 3ccb7b88b98d:5001
+  Earliest Timestamp: 2023-09-11T14:57:36.400551219Z
+  Message: Transaction successfully received by 9b4689f847e4:5001
+  Earliest Timestamp: 2023-09-11T14:57:36.400553465Z
+  Message: Transaction successfully received by 6eff7f343cd5:5001
+  Earliest Timestamp: 2023-09-11T14:57:36.400555154Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 0c21359ac9aea5ec6554b6beef90c8d40d044bea4d910566aeb1eb3c4c85a36c
+  Earliest Timestamp: 2023-09-11T14:59:06.778863985Z
+  Message: Sending vote for block 0c21359ac9aea5ec6554b6beef90c8d40d044bea4d910566aeb1eb3c4c85a36c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:06.778886964Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:06.778919019Z
+  Message: Block successfully received by 6eff7f343cd5:5001
+  Earliest Timestamp: 2023-09-11T14:59:06.778934847Z
+  Message: Block successfully received by 9b4689f847e4:5001
+  Earliest Timestamp: 2023-09-11T14:59:06.778941505Z
+  Message: Block successfully received by 3ccb7b88b98d:5001
+  Earliest Timestamp: 2023-09-11T14:59:06.778959994Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:35.251915129Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:35.251918687Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 5b8847f35529e80a5019816294d2e573da8659dd56c82c47062c647c67fd1dff
+  Earliest Timestamp: 2023-09-11T15:00:51.531168137Z
+  Message: Sending vote for block 5b8847f35529e80a5019816294d2e573da8659dd56c82c47062c647c67fd1dff to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:00:51.531430491Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09
+  Earliest Timestamp: 2023-09-11T15:01:36.943391735Z
+  Message: Sending vote for block 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:01:36.943394814Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 9250f1fa2f99e2906627dbbd023acb2aef936cf0e25829ef548cb3ccbe1e49a8
+  Earliest Timestamp: 2023-09-11T15:02:51.356770858Z
+  Message: Sending vote for block 9250f1fa2f99e2906627dbbd023acb2aef936cf0e25829ef548cb3ccbe1e49a8 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:02:51.356774494Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e59db85111f85a68639fa8ba455f48a182269e176942e2dc28530f217b35b467
+  Earliest Timestamp: 2023-09-11T15:03:51.409257877Z
+  Message: Sending vote for block e59db85111f85a68639fa8ba455f48a182269e176942e2dc28530f217b35b467 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:03:51.409260150Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:36.917189104Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:36.917190940Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK ac81b05e85169e1bfb9fa97ee6a979270a60267f3d4ce68a167e8e37be5553bd
+  Earliest Timestamp: 2023-09-11T15:06:06.364006956Z
+  Message: Sending vote for block ac81b05e85169e1bfb9fa97ee6a979270a60267f3d4ce68a167e8e37be5553bd to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:06.364009158Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:06:35.181723237Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:37.635582871Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:36.918178047Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:36.918181934Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c
+  Earliest Timestamp: 2023-09-11T15:08:36.193518681Z
+  Message: Sending vote for block 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:08:36.193522150Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:09:36.162876734Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:36.162878764Z
+  Message: DEBUG: Proposing block with state root a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a
+  Earliest Timestamp: 2023-09-11T15:10:36.148966170Z
+  Message: DEBUG: Proposing block with state root d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc
+  Earliest Timestamp: 2023-09-11T15:11:36.194793765Z
+  Message: Sending vote for block d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:36.105806461Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:12:36.105809697Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:36.105811314Z
+  Message: Transaction successfully received by 3ccb7b88b98d:5001kHash": "d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc", "vote_count": 3, "epoch": 5}]te_count": 7, "epoch": 1}, {"blockHash": "5b8847f35529e80a5019816294d2e573da8659dd56c82c47062c647c67fd1dff", "vote_count": 2, "epoch": 2}, {"blockA"�     {"source": "0x7a
+  Earliest Timestamp: 2023-09-11T15:12:37.636541605Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:36.928541279Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:36.928547573Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:36.169795582Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:36.169798349Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 1710ef8ed9aea0bd41175ce1a4438ca20e4d61e5025bece9d0651ca22f58a13b
+  Earliest Timestamp: 2023-09-11T15:15:51.567535388Z
+  Message: Sending vote for block 1710ef8ed9aea0bd41175ce1a4438ca20e4d61e5025bece9d0651ca22f58a13b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:15:51.567545237Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:16:36.963487929Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:16:36.963498148Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 8e71de7a1a64c1940b628719721a3d38cff1b40b6f328ef6522a41c3e6bfce1e
+  Earliest Timestamp: 2023-09-11T15:18:06.409086178Z
+  Message: Sending vote for block 8e71de7a1a64c1940b628719721a3d38cff1b40b6f328ef6522a41c3e6bfce1e to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:18:06.409088595Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK fd28f26b4354da1b7ebdcc7216df49b713259d284d1db2471f89cbfd7ae435f3
+  Earliest Timestamp: 2023-09-11T15:19:06.384144220Z
+  Message: Sending vote for block fd28f26b4354da1b7ebdcc7216df49b713259d284d1db2471f89cbfd7ae435f3 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:06.384148170Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:19:35.158834883Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:37.672545016Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 534fbd125f869c9eb999d95b49d79c972dbd013a7e12bd5f7ba832be100c82fa
+  Earliest Timestamp: 2023-09-11T15:22:06.166172646Z
+  Message: Sending vote for block 534fbd125f869c9eb999d95b49d79c972dbd013a7e12bd5f7ba832be100c82fa to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:22:06.166174633Z
+  Message: DEBUG: Proposing block with state root 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e
+  Earliest Timestamp: 2023-09-11T15:22:36.653940528Z
+  Message: Sending vote for block 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:51.931303434Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:23:51.931316283Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:51.931322142Z
+  Message: DEBUG: Proposing block with state root 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7
+  Earliest Timestamp: 2023-09-11T15:24:37.688844675Z
+  Message: Sending vote for block 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:36.914445390Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:36.914449881Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:36.914451825Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:36.129287821Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:36.129289577Z
+  Message: DEBUG: Proposing block with state root b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30
+  Earliest Timestamp: 2023-09-11T15:28:36.941901246Z
+  Message: Sending vote for block b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:30:06.369977276Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 0a5fa86dab40c43d47a4afdbefd2cf48ae02d995a82b33fc5d40b9b548f9ba6f
+  Earliest Timestamp: 2023-09-11T15:30:06.369986966Z
+  Message: Sending vote for block 0a5fa86dab40c43d47a4afdbefd2cf48ae02d995a82b33fc5d40b9b548f9ba6f to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:30:06.369990458Z
+Validator 4:
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T14:59:18.379876004Z
+  Message: Transaction successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:59:18.379903638Z
+  Message: DEBUG: Proposing block with state root 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:49.275631979Z
+  Message: Block successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:59:49.275633927Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:49.279548758Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T15:04:49.279551149Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:49.279552904Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:49.279554678Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:07:18.198317463Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:18.198320577Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:49.259786099Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:49.259787687Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:10:48.136284194Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:10:48.136304638Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:13:34.265121589Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:34.265132010Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:14:03.175343519Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:03.175345152Z
+  Message: DEBUG: Proposing block with state root f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:49.295043966Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:17:18.255363226Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:17:18.255372929Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:17:18.255376999Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:20:18.305111197Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:20:18.305115766Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:24:18.268065561Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:24:18.268068345Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:26:03.190181679Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:03.190183277Z
+  Message: DEBUG: Proposing block with state root 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:49.274026606Z
+Validator 5:
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T14:58:51.075240475Z
+  Message: Transaction successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:58:51.075274107Z
+  Message: DEBUG: Proposing block with state root 0c21359ac9aea5ec6554b6beef90c8d40d044bea4d910566aeb1eb3c4c85a36c
+  Earliest Timestamp: 2023-09-11T14:58:51.075697847Z
+  Message: Block successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:58:51.075702026Z
+  Message: Sending vote for block 0c21359ac9aea5ec6554b6beef90c8d40d044bea4d910566aeb1eb3c4c85a36c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:52.773374787Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:52.773376707Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:52.773378490Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:52.773380408Z
+  Message: DEBUG: Proposing block with state root 5b8847f35529e80a5019816294d2e573da8659dd56c82c47062c647c67fd1dff
+  Earliest Timestamp: 2023-09-11T15:01:07.735204474Z
+  Message: Sending vote for block 5b8847f35529e80a5019816294d2e573da8659dd56c82c47062c647c67fd1dff to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:01:51.110816714Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09
+  Earliest Timestamp: 2023-09-11T15:01:51.110835009Z
+  Message: Sending vote for block 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:01:51.110838399Z
+  Message: DEBUG: Proposing block with state root e59db85111f85a68639fa8ba455f48a182269e176942e2dc28530f217b35b467
+  Earliest Timestamp: 2023-09-11T15:03:51.093220504Z
+  Message: Sending vote for block e59db85111f85a68639fa8ba455f48a182269e176942e2dc28530f217b35b467 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:52.776405400Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:52.776409706Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:52.776411799Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:06:51.097516372Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:51.097518445Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:52.978371004Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:52.978378137Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c
+  Earliest Timestamp: 2023-09-11T15:08:51.087055603Z
+  Message: Sending vote for block 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:08:51.087061063Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:09:52.770834160Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:52.770836021Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a
+  Earliest Timestamp: 2023-09-11T15:11:07.675349188Z
+  Message: Sending vote for block a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:11:07.675351167Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc
+  Earliest Timestamp: 2023-09-11T15:12:07.794986265Z
+  Message: Sending vote for block d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:07.794988478Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:12:51.079638030Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:51.079639741Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:52.731278831Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:52.731280451Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:51.110828076Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:51.110831464Z
+  Message: DEBUG: Proposing block with state root 1710ef8ed9aea0bd41175ce1a4438ca20e4d61e5025bece9d0651ca22f58a13b
+  Earliest Timestamp: 2023-09-11T15:15:51.150925615Z
+  Message: Sending vote for block 1710ef8ed9aea0bd41175ce1a4438ca20e4d61e5025bece9d0651ca22f58a13b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:16:52.883975865Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:16:52.883981976Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:16:52.883984950Z
+  Message: Transaction successfully received by 62048f048c0b:5001Transaction successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T15:19:52.806517986Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:19:52.807885748Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:52.807889833Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e
+  Earliest Timestamp: 2023-09-11T15:23:37.728304439Z
+  Message: Sending vote for block 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:37.728306450Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:24:06.117420188Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:24:06.117424112Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7
+  Earliest Timestamp: 2023-09-11T15:25:37.638919273Z
+  Message: Sending vote for block 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:37.638933960Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:37.639209488Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:37.639212314Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:52.726925294Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:52.726926918Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30
+  Earliest Timestamp: 2023-09-11T15:29:37.784747390Z
+  Message: Sending vote for block b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:29:37.784749941Z
+  Message: DEBUG: Proposing block with state root 0a5fa86dab40c43d47a4afdbefd2cf48ae02d995a82b33fc5d40b9b548f9ba6f
+  Earliest Timestamp: 2023-09-11T15:29:37.784969716Z
+Validator 6:
+  Message: Transaction successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:57:50.446879686Z
+  Message: Transaction successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:57:50.446891631Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:36.022565544Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:36.022882708Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:36.022897886Z
+  Message: Block successfully received by d5851b6008bb:5001
+  Earliest Timestamp: 2023-09-11T14:59:36.022916249Z
+  Message: Block successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:59:36.023411983Z
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T15:01:49.303270640Z
+  Message: DEBUG: Proposing block with state root 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09
+  Earliest Timestamp: 2023-09-11T15:01:49.303272872Z
+  Message: Sending vote for block 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:36.019028356Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:36.019031713Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:36.019033379Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:06:36.025355604Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:36.025357730Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:36.028632290Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:36.028634974Z
+  Message: DEBUG: Proposing block with state root 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c
+  Earliest Timestamp: 2023-09-11T15:08:35.186715679Z
+  Message: Sending vote for block 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:36.028417028Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:09:36.028421309Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:36.028423257Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a
+  Earliest Timestamp: 2023-09-11T15:11:05.309555834Z
+  Message: Sending vote for block a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:11:05.309557825Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc
+  Earliest Timestamp: 2023-09-11T15:11:50.131151712Z
+  Message: Sending vote for block d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:11:50.131153322Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:12:36.019374000Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:36.019376413Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:36.038682061Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:36.038794657Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:36.023802078Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:36.023806127Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:16:36.034102735Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:16:36.034107740Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:19:36.028876208Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:36.028880763Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e
+  Earliest Timestamp: 2023-09-11T15:22:50.181520138Z
+  Message: Sending vote for block 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:22:50.181522269Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:23:51.026700248Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:51.026703950Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7
+  Earliest Timestamp: 2023-09-11T15:25:20.172020218Z
+  Message: Sending vote for block 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:20.172023255Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:36.030839620Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:36.030841304Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:36.024321740Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:36.024324287Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30
+  Earliest Timestamp: 2023-09-11T15:29:35.437883931Z
+  Message: Sending vote for block b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:29:35.437886727Z
+Validator 7:
+  Message: Transaction successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:58:51.037670008Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70
+  Earliest Timestamp: 2023-09-11T14:59:52.119259295Z
+  Message: Sending vote for block 71d9558f5df32b7e0910b613999cea56b61d394e0f3d22dab76344c8f6309a70 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T14:59:52.119342689Z
+  Message: Vote successfully received by http://bootstrapper:5000/receive-vote
+  Earliest Timestamp: 2023-09-11T14:59:52.119347220Z
+  Message: Block successfully received by 62048f048c0b:5001
+  Earliest Timestamp: 2023-09-11T14:59:52.119351131Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09
+  Earliest Timestamp: 2023-09-11T15:01:52.088771477Z
+  Message: Sending vote for block 798331b7c659a2cdfdecfe53eb71ac225ef92974f3541bfe10bd85d81efcce09 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:01:52.088774622Z
+  Message: DEBUG: Setting role to proposer
+  Earliest Timestamp: 2023-09-11T15:03:07.030109635Z
+  Message: DEBUG: Proposing block with state root 9250f1fa2f99e2906627dbbd023acb2aef936cf0e25829ef548cb3ccbe1e49a8
+  Earliest Timestamp: 2023-09-11T15:03:07.030111471Z
+  Message: Sending vote for block 9250f1fa2f99e2906627dbbd023acb2aef936cf0e25829ef548cb3ccbe1e49a8 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:51.985651445Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6
+  Earliest Timestamp: 2023-09-11T15:04:51.985658307Z
+  Message: Sending vote for block 50d2374e02477267d906ee22627af69c1343637b5afe50bc6bde0591e62665d6 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:04:51.985667053Z
+  Message: DEBUG: Proposing block with state root ac81b05e85169e1bfb9fa97ee6a979270a60267f3d4ce68a167e8e37be5553bd
+  Earliest Timestamp: 2023-09-11T15:05:52.182990748Z
+  Message: Sending vote for block ac81b05e85169e1bfb9fa97ee6a979270a60267f3d4ce68a167e8e37be5553bd to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:51.051979463Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562
+  Earliest Timestamp: 2023-09-11T15:06:51.051983128Z
+  Message: Sending vote for block edfdb107b3fcb15d4cd0ee34ca493a74712214ed66dd2c8664ac2bbb46b53562 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:06:51.051984947Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb
+  Earliest Timestamp: 2023-09-11T15:07:52.210926539Z
+  Message: Sending vote for block 91dbaceba228c0cce51a82e72e01688d16be08f40560206587b5834f380b9ddb to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:07:52.210935690Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c
+  Earliest Timestamp: 2023-09-11T15:08:51.048626396Z
+  Message: Sending vote for block 5ecdc95967eb9eb596d4d2ab0d3df7a679e2f85b4b1d554da313c12f27c0a18c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:08:51.048632490Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964
+  Earliest Timestamp: 2023-09-11T15:09:52.096940371Z
+  Message: Sending vote for block f2ad273fbffb59006f2d440e42404fee8c1cdf80cb30b8c9620cb0674623a964 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:09:52.096942258Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a
+  Earliest Timestamp: 2023-09-11T15:11:06.967496492Z
+  Message: Sending vote for block a443ed3389c9ff0ff9e217747a301dc4fea4bb63e322ca46f97fff09d57b263a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:11:06.967498276Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc
+  Earliest Timestamp: 2023-09-11T15:12:07.027920606Z
+  Message: Sending vote for block d0bdce627ca8d067c25854704f71ed4ed8f4693e4697e566cf0aff2192fcdecc to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:07.027922558Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451
+  Earliest Timestamp: 2023-09-11T15:12:51.035144376Z
+  Message: Sending vote for block 4ff6fe53106e6fcc751bef9c576d2b05118f6df046f3497197c31b78363a0451 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:12:51.035147145Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d
+  Earliest Timestamp: 2023-09-11T15:13:52.005292526Z
+  Message: Sending vote for block e7415bf0d930001fd60c6f74bd2e49f72b8aa8d920459fce84fbe7e5837d3e3d to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:13:52.005294192Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a
+  Earliest Timestamp: 2023-09-11T15:14:51.092753587Z
+  Message: Sending vote for block f13ce74a663c07b126ff710398e797910f18f20c88e2f75753a380b41c3e6d7a to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:14:51.092755575Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df
+  Earliest Timestamp: 2023-09-11T15:16:52.204792942Z
+  Message: Sending vote for block 3e7a9493b90b1d28d20ec3b61d816973e64ad824005f6b852ba766f16ca3e8df to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:16:52.204797700Z
+  Message: DEBUG: Proposing block with state root 8e71de7a1a64c1940b628719721a3d38cff1b40b6f328ef6522a41c3e6bfce1e
+  Earliest Timestamp: 2023-09-11T15:18:07.168009055Z
+  Message: DEBUG: Proposing block with state root fd28f26b4354da1b7ebdcc7216df49b713259d284d1db2471f89cbfd7ae435f3
+  Earliest Timestamp: 2023-09-11T15:19:22.033664308Z
+  Message: Sending vote for block fd28f26b4354da1b7ebdcc7216df49b713259d284d1db2471f89cbfd7ae435f3 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:51.073526038Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c
+  Earliest Timestamp: 2023-09-11T15:19:51.073842898Z
+  Message: Sending vote for block 85857da8027f26d052d9943c0f1b4a19687e211bf5714213da9969b698ff8e6c to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:19:51.073849425Z
+  Message: DEBUG: Proposing block with state root 534fbd125f869c9eb999d95b49d79c972dbd013a7e12bd5f7ba832be100c82fa
+  Earliest Timestamp: 2023-09-11T15:22:07.205961720Z
+  Message: Sending vote for block 534fbd125f869c9eb999d95b49d79c972dbd013a7e12bd5f7ba832be100c82fa to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:22.092064591Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e
+  Earliest Timestamp: 2023-09-11T15:23:22.092070254Z
+  Message: Sending vote for block 4a066bad309195e9c44e352660968f287f0c2b1e4b6e39aa61aa3a1f94258a0e to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:23:22.092072745Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b
+  Earliest Timestamp: 2023-09-11T15:24:06.070707886Z
+  Message: Sending vote for block e361270ffecf889b6aa5e031cf877ec88fcbcbbff010149b5ed683f298626e4b to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:24:06.070711023Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7
+  Earliest Timestamp: 2023-09-11T15:25:36.957768077Z
+  Message: Sending vote for block 43d13b44ab5fa34ef8abda91a41445b40da372db989395f8f5cacf74eaee58d7 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:36.957776153Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23
+  Earliest Timestamp: 2023-09-11T15:25:36.958338367Z
+  Message: Sending vote for block 944963c0580671251d3d2ca72cf3551f9d19dd1c83d705e555fb776319c44f23 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:25:36.958339980Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab
+  Earliest Timestamp: 2023-09-11T15:26:52.015730689Z
+  Message: Sending vote for block 749e6dd9449e2286488927c102a56d346aa362358c8d175073bd63ee06afd1ab to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:26:52.015732351Z
+  Message: DEBUG: I AM SENDING VOTE FOR BLOCK b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30
+  Earliest Timestamp: 2023-09-11T15:29:37.163057136Z
+  Message: Sending vote for block b124225fbf2af86d7ded45a0f3cfac1b2dc1cf960a0cc7f280f7f8e180e3fb30 to http://bootstrapper:5000
+  Earliest Timestamp: 2023-09-11T15:29:37.163059809Z
